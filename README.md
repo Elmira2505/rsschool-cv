@@ -9,7 +9,7 @@
 ### __*`I  am responsibility, communication skills, stress resistance, learning ability, desire to work in a team, achieve professional growth to a Back-End developer using Laravel, Java Spring.`*__
 
 
-### Skills: 
+### Skills: .
 * HTML
 * CSS
 * PHP
