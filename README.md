@@ -1,6 +1,6 @@
 # rsschool-cv
 
-# YUVAKAEVA ELMIRA NAILOVNA
+# YUVAKAEVA ELMIRA NAILOVNA ...........
 ## Phone number:  +1-484-401-6262, E-mail: uan2505@mail.ru
 
  I am a director in my own company, I work in a customs service and prepare documents as well as a cargo customs declaration. Many years ago I worked  a database programmer. Currently my main goal is training a full stack developer in web applications for work in future.
