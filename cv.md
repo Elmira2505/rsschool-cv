@@ -2,7 +2,7 @@
 ***
 ### Contacts:
 Phone number: +1-484-401-6262, E-mail: uan2505@mail.ru
-### About:
+### About me :
 
 I like create WEB application . Many years ago I worked a database programmer. Curently my main goal is training a
 frontend,full stack developer in web applications for work.
