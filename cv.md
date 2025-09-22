@@ -1,7 +1,7 @@
 ## YUVAKAEVA ELMIRA  / FRONTEND DEVELOPER
 ***
 ### Contacts:
-Phone number: +1-484-401-6262, E-mail: uan2505@mail.ru
+Phone number: +1-484-401-2222, E-mail: uan2505@mail.ru
 ### About me :
 
 I like create WEB application . Many years ago I worked a database programmer. Curently my main goal is training a
