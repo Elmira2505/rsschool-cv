@@ -15,8 +15,7 @@ hr {
 }
 
 .header {
-    /* //background-color: #1f7ea1;*/
-    /*padding: 15px;*/
+
     border-radius: 10px 10px 0 0;
 }
 
@@ -38,7 +37,7 @@ hr {
 
     text-align: center;
     padding: 14px 16px;
-
+transition: 0.3s;
 
 }
 
@@ -59,9 +58,9 @@ hr {
 
 .main_left_aside {
     width: 35%;
-    /*  background-color: #1f7ea1;*/
+
     padding: 0 15px;
-    //float: left;
+
 
 }
 
@@ -83,7 +82,7 @@ pre {
 
 }
 
-.footer{
+.footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -91,7 +90,7 @@ pre {
 
 }
 
-.footer a{
-display: flex;
+.footer a {
+    display: flex;
     align-items: center;
 }
